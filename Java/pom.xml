@@ -20,6 +20,10 @@
         </plugins>
     </build>
 
+    <properties>
+        <exec.mainClass>Generator</exec.mainClass>
+    </properties>
+
     <repositories>
         <repository>
             <id>AsposeJavaAPI</id>
